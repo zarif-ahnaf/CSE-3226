@@ -1,0 +1,1 @@
+Topic: basic pixel operation, mirror image,flip image,thresholding, histogram, histrogram equalization

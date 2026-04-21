@@ -1,0 +1,11 @@
+[project]
+name = "practise"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.5.3",
+    "opencv-python>=4.13.0.92",
+]
