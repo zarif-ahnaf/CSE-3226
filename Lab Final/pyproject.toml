@@ -1,0 +1,11 @@
+[project]
+name = "lab-final"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter",
+    "matplotlib",
+    "opencv-python",
+]
